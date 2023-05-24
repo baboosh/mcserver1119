@@ -23,3 +23,10 @@ Select the "server details.zip" file.
 ![step4](https://github.com/baboosh/mcserver1119/assets/18063367/a4cd31f6-4e66-4c39-b7a1-ad2832330691)
 
 All done! Click Play when the download has finished.
+
+# Joining the Server
+
+1. After opening Minecraft, click on Multiplayer.
+2. Click on Add Server
+3. In the Server Name field, put anything you'd like.
+4. In the Server Address field, put `beeworld.mcserver.us` this is the IP.
