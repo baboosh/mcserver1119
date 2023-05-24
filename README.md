@@ -1,7 +1,8 @@
 # Client Setup
 
 Install Curse Forge: https://download.curseforge.com/
-Download the .zip file inside this repository.
+Download the repository.
+Extract the repository and place "server details.zip" anywhere.
 
 Setup Minecraft on the Curse Forge App.
 
@@ -17,7 +18,7 @@ Click on import a previously created profile.
 
 ![step3](https://github.com/baboosh/mcserver1119/assets/18063367/477682ba-5d46-4a37-be84-cc7d677f6a06)
 
-Select the downloaded .zip file.
+Select the "server details.zip" file.
 
 ![step4](https://github.com/baboosh/mcserver1119/assets/18063367/a4cd31f6-4e66-4c39-b7a1-ad2832330691)
 
